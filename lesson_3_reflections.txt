@@ -22,3 +22,11 @@ stored locally?
 
     De esta forma, al hacer cambios, evitas los conflictos que se dan para hacer
     el merge.
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+	Enviando y recibiendos archivos .zip con el proyecto completo. Lo más fácil
+	sería que no hay necesidad de hacer merge. Pero por otro lado, hacer eso es
+	muy lento.
+
