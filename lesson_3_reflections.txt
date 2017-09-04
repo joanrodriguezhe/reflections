@@ -30,3 +30,9 @@ what would be harder?
 	sería que no hay necesidad de hacer merge. Pero por otro lado, hacer eso es
 	muy lento.
 
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+	
+	Al hacer esto, no tomamos el riesgo de que algo deje de funcionar. Así mismo
+    podemos tener una nueva versión del proyecto a modo de prueba y de esta forma
+    elegimos qué haremos con esa nueva versión.
