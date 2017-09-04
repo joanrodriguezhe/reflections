@@ -16,3 +16,9 @@ use one instead of another?
     sin provocar cambios en el repositorio original.
     Clone se usa para clonar un repositorio.
     Branch, son las ramas que se crean de los respositorios
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    De esta forma, al hacer cambios, evitas los conflictos que se dan para hacer
+    el merge.
