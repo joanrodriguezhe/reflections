@@ -9,5 +9,10 @@ automatically stay up-to-date with your remote repository?
     
     Porque así es más sencillo elegir cuando es necesario hacer un commit.
 
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
     
-
+    El Fork es un repositorio que tomamos de otro usuario para manipularlo
+    sin provocar cambios en el repositorio original.
+    Clone se usa para clonar un repositorio.
+    Branch, son las ramas que se crean de los respositorios
