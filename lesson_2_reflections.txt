@@ -1,0 +1,46 @@
+What happens when you initialize a repository? Why do you need to do it?
+    
+    Cuando inicializas un repositorio se inicializa la configuración para
+    comenzar a hace commits. Si no se hace esto, no se crea la carpeta de
+    configuración de git y por consiguiente, no se puede llevar a cabo el
+    control de versiones.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+    
+    Principalmente, nos permite elegir sobre qué archivos vamos a crear los
+    commit.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+    haciendo esto, puedes verificar que los archivos añadidos tuvieron cambios
+    lógicos reales.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+    Nos ayuda a tener mejor organizado nuestro código. De esta manera se puede
+    tener diferentes versiones de un mismo proyecto sin necesidad de tener que
+    modificarlo o "regresar" en el historial para acceder al mismo
+
+How do the diagrams help you visualize the branch structure?
+
+    Nos permite ver exactamente cómo está compuesto nuestro repositorio y de
+    esta manera, podemos visualizar mejor lo que vamos a hacer.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+    Me parece confuso, sin embargo, combina 2 ramas en 1 sola. Aunque algunas
+    partes del código las omite. Se representa en el diagrama como queda la rama
+    nueva, debido a que viene siendo como un nuevo commit, aunque combinando las
+    ramas.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+    Considero que e smejor hacerlo manualmente, de esta forma, podemos estar
+    seguros de que cualquier conflicto que se genere en algún archivo, 
+    podemos solucionarlo en ese momento.
+
